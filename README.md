@@ -1,7 +1,7 @@
 # Mariana Pinto 👋
 
 🎓 **BSc in Software Engineering @ University of Minho**  
-🚀 **Currently pursuing my MSc in Software Engineering @ University of Minho**
+🚀 **Currently in the MSc in Software Engineering @ University of Minho**
 
 ---
 
@@ -12,21 +12,23 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Frameworks & Web Development
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-UI-orange?style=for-the-badge)
 
 ### Artificial Intelligence & NLP
-![Data Science](https://img.shields.io/badge/NLP_&_RAG-Advanced-blue?style=for-the-badge)
+![NLP](https://img.shields.io/badge/Natural_Language_Processing-blue?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A5%97%20Hugging%20Face-Transformers-yellow?style=for-the-badge)
-![Gradio](https://img.shields.io/badge/Gradio-UI-orange?style=for-the-badge)
 
 ### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
-### Data Engineering & BI
+### Data Engineering & Databases
 ![SQL](https://img.shields.io/badge/SQL-Databases-blue?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power_BI-Analytics-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
@@ -45,5 +47,3 @@
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-pinto-397a93420/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marianabp170@gmail.com)
-
----
