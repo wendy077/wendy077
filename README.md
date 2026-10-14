@@ -1,11 +1,11 @@
 # Mariana Pinto 👋
 
-🎓 **BSc in Software Engineering @ University of Minho**  
-🚀 **Currently in the MSc in Software Engineering @ University of Minho**
+**BSc in Software Engineering @ University of Minho**  
+**Currently in the MSc in Software Engineering @ University of Minho**
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -33,7 +33,7 @@
 
 ---
 
-## 📈 Featured Projects (See Below)
+## Featured Projects (See Below)
 
 * **`static-source-code-analyser`**: A static code analyzer with abstract syntax tree parsing and Control Flow Graph (CFG) generation.
 * **`music-ir-qa-pipeline`**: A hybrid Information Retrieval pipeline (BM25 + SBERT) featuring extractive and abstractive Question Answering systems (DistilBERT fine-tuning).
@@ -43,6 +43,6 @@
 
 ---
 
-## 🌐 Socials
+## Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-pinto170/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marianabp170@gmail.com)
