@@ -1,21 +1,26 @@
 # Mariana Pinto 👋
 
-🎓 **BSc in Software Engineering** · **Currently pursuing MSc in Software Engineering** @ University of Minho[cite: 18]  
-📬 [marianabp170@gmail.com](mailto:marianabp170@gmail.com)[cite: 18] · [LinkedIn](https://www.linkedin.com/in/mariana-pinto170/)[cite: 20]
+🎓 **BSc in Software Engineering** · **Currently pursuing MSc in Software Engineering** @ University of Minho  
+📬 [marianabp170@gmail.com](mailto:marianabp170@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mariana-pinto170/)
 
 ---
 
 ### Tech & Skills
 
-`Python` · `SQL` · `Power BI` · `Data Modeling` · `Java` · `TypeScript` · `JavaScript` · `React` · `Docker` · `Git`[cite: 18, 20]
+`Python` · `SQL` · `Power BI` · `Data Modeling` · `Java` · `TypeScript` · `JavaScript` · `React` · `Docker` · `Git`
 
 ---
 
 ## Featured Projects
 
-- [**flood-monitoring-lakehouse-dw**](https://github.com/wendy077/flood-monitoring-lakehouse-dw): End-to-end Data Lakehouse (Bronze/Silver/Gold) with dimensional modeling (SQL Server/SSIS), Power BI decision-support dashboards, and Python ML alert forecasting[cite: 26, 37, 84, 145].
-- [**music-ir-qa-pipeline**](https://github.com/wendy077/music-ir-qa-pipeline): A hybrid Information Retrieval pipeline (BM25 + SBERT) featuring extractive and abstractive Question Answering systems (DistilBERT fine-tuning)[cite: 18].
-- [**software-architecture-tools**](https://github.com/wendy077/software-architecture-tools): A modular microservices ecosystem deployed via Docker, integrated with RabbitMQ and an API Gateway[cite: 18].
+- [**flood-monitoring-lakehouse-dw**](https://github.com/wendy077/flood-monitoring-lakehouse-dw): End-to-end Data Lakehouse (Bronze/Silver/Gold) with dimensional modeling (SQL Server/SSIS), Power BI decision-support dashboards, and Python ML alert forecasting.
+- [**music-ir-qa-pipeline**](https://github.com/wendy077/music-ir-qa-pipeline): A hybrid Information Retrieval pipeline (BM25 + SBERT) featuring extractive and abstractive Question Answering systems (DistilBERT fine-tuning).
+- [**software-architecture-tools**](https://github.com/wendy077/software-architecture-tools): A modular microservices ecosystem deployed via Docker, integrated with RabbitMQ and an API Gateway.
 - [**interactive-web-api**](https://github.com/wendy077/interactive-web-api): A full-stack web application designed around rigorous tiered architecture, featuring an interactive API and automated integration testing.
 
 ---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-pinto170/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marianabp170@gmail.com)
