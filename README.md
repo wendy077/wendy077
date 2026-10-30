@@ -33,11 +33,10 @@
 
 ## Featured Projects (See Below)
 
-* **`static-source-code-analyser`**: A static code analyzer with abstract syntax tree parsing and Control Flow Graph (CFG) generation.
+* **flood-monitoring-lakehouse-dw**: End-to-end Data Lakehouse (Bronze/Silver/Gold) with dimensional modeling (SQL Server/SSIS), Power BI decision-support dashboards, and Python ML alert forecasting.
 * **`music-ir-qa-pipeline`**: A hybrid Information Retrieval pipeline (BM25 + SBERT) featuring extractive and abstractive Question Answering systems (DistilBERT fine-tuning).
 * **`software-architecture-tools`**: A modular microservices ecosystem deployed via Docker, integrated with RabbitMQ and an API Gateway.
 * **`interactive-web-api`**: A full-stack web application designed around rigorous tiered architecture, featuring an interactive API and automated integration testing.
-* **`cloud-automation-k8s`**: Infrastructure-as-code pipeline for managing, autoscaling, and monitoring Google Cloud (GKE) clusters using Ansible.
 
 ---
 
